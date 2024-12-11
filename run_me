@@ -5,4 +5,4 @@ sudo mkdir -p $dir
 sudo cp wordle.py $dir/wordle
 sudo chmod +x $dir/wordle
 sudo echo 'PATH="/usr/wordle_bin:$PATH"' >> /home/$me/.profile
-. /home/$me/.profile
+source /home/$me/.profile

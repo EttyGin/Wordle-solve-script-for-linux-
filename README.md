@@ -10,3 +10,9 @@ Type wordle in your terminal to start playing.
 Dependencies:
 Linux OS
 Python
+
+
+NOTE:
+if you typed "wordle" and it didn't work, run it:
+1. cd 
+2. source .profile
